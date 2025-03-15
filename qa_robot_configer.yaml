@@ -1,0 +1,22 @@
+# appid="828265a0",
+spark_appid : "0bcea58d" # 填appID
+# api_secret="MTdiZDkxYTM3MTRjMTU4MTllYTVlMDEw",
+spark_api_secret : "NjBjM2U5YjE5MWQwOTk0NTdiYjFiNjRk"  # 填secretID
+# api_key="dfcdebc96722e8050ac6b02a4f529c43",
+spark_api_key : "3120e1c006670ffbce373c1d93e278d6"
+# appid、api_secret、api_key三个服务认证信息请前往开放平台控制台查看（https://console.xfyun.cn/services/bm35）
+spark_gpt_url : "wss://spark-api.xf-yun.com/v3.5/chat"
+# gpt_url="wss://spark-api.xf-yun.com/v3.5/chat",
+# Spark_url = "ws://spark-api.xf-yun.com/v3.1/chat"  # v3.0环境的地址
+# Spark_url = "ws://spark-api.xf-yun.com/v2.1/chat"  # v2.0环境的地址
+# Spark_url = "ws://spark-api.xf-yun.com/v1.1/chat"  # v1.5环境的地址
+spark_domain : "generalv3.5"  # 填serviceID
+# domain = "generalv3.5",
+# domain = "generalv3"    # v3.0版本
+# domain = "generalv2"    # v2.0版本
+# domain = "general"    # v2.0版本
+db_host : "localhost" # 数据库主机
+db_user : "root" # 数据库用户名
+db_password : "SL123456"  # 数据库密码
+db_port : "3306"  #数据库端口
+db_name : "SL_8"  # 数据库名称
